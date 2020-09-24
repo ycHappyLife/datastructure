@@ -1,1 +1,3 @@
-# datastructure(记录数据结构学习相关代码)
+# Data-Structure (数据结构)
+
+## 文件目录请参考project-structure.txt文件
